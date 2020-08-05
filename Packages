@@ -1,0 +1,30 @@
+Package: com.almohsen.crackapp1
+Version: 6.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: Almohsen
+Filename: deb/com.almohsen.crackapp1_6.0-1+debug_iphoneos-arm.deb
+Size: 30168
+MD5sum: b0977601b6c4edb82d6fb00f08ff4acf
+SHA1: 6e40710e149fef0a61dbae76577744f5299be255
+SHA256: 8e2acc5f36aeaa8d69cca32505556bc6ba9b7175d5a09339f333cb9abc4a6a05v
+Section: Tweaks
+Description: اداة كراك بعض التطبيقات ومنع اعلان يوتيوب وتشغيل في الخلفية
+Author: Almohsen
+Name: crackapp1
+
+Package: com.lema.shark
+Version: 1.6
+Architecture: iphoneos-arm
+Maintainer: BigBoss
+Filename: deb/com.lema.shark_1.6_iphoneos-arm.deb
+Size: 1120
+MD5sum: 7e12493df019bd20558a3bc45b515be7
+SHA1: b927ac1790ecfe117190f797560830b3e6335dcf
+SHA256: be3d43f81a73503c9a20166daf09e2d79db12bd0f77f4c6dd20e084e7c1e0590
+Section: Tweaks
+Description: اداة شارك ل برنامج ماسنجر فيس بوك مشاهدة القصة بدون علم المقابل وكذالك الدخول على الرسائل بدون علامة تم القرأة
+Author: Michael Lema 
+Name: Shark
+
+
+
